@@ -4,7 +4,7 @@ Welcome to the repository of exercises for the Machine Learning and Deep Learnin
 
 # Description
 
-This repository aims to provide a space to store and share exercises, projects, and experiments related to Machine Learning and Deep Learning disciplines. The materials included here are used as part of my graduate course and can serve as a reference for other students or professionals interested in the field.
+This repository stores and shares exercises, projects, and experiments on Machine Learning and Deep Learning from my post-graduate studies. 
 
 # Contact
 For any questions or further information, you can reach out to me via email: painelilucas@gmail.com.
